@@ -1,15 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm SHUBHAM HANDE 👋
 
-![Profile views](https://gpvc.arturio.dev/[YourUsername])
+![Profile views](https://gpvc.arturio.dev/[Mrsh8431])
 
 ## About Me
 
-- 🔭 I’m currently working on [ProjectName](https://github.com/YourUsername/ProjectName)
-- 🌱 I’m currently learning [LearningTopic]
+- 🔭 I’m currently working on HomeAbroad (https://github.com/Mrsh8431/HomeAbroad)
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on [CollaborationInterest]
 - 🤔 I’m looking for help with [HelpNeeded]
 - 💬 Ask me about [Expertise]
-- 📫 How to reach me: [YourEmail@example.com]
+- 📫 How to reach me: shubhamhande506@gmail.com
 - ⚡ Fun fact: [FunFact]
 
 ## 🚀 Skills
@@ -69,8 +69,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shubhamhande)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Mrsh8431)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 ## 🧰 Projects
@@ -82,7 +82,5 @@ Description of the project and what it does.
 Description of another project and what it does.
 
 ---
-
-*Note: This profile README is dynamically generated!*
 
 [![Profile last updated](https://img.shields.io/github/last-commit/YourUsername/YourUsername/main?label=Last%20updated&color=green)](https://github.com/YourUsername/YourUsername)
