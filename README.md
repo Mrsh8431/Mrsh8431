@@ -1,6 +1,6 @@
 # Hi there, I'm SHUBHAM HANDE 👋
 
-![Profile views](https://https://github.com/Mrsh8431)
+[View My Profile](https://github.com/Mrsh8431)
 
 ## About Me
 
